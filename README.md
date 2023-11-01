@@ -24,5 +24,5 @@ using OpenCV's cv2.findChessboardCorners(), cv2.drawChessboardCorners(), and cv2
 Finally, the cv2.calibrateCamera() returns the translation vector, the rotation matrix, the intrinsic matrix and distortion coefficients. 
 
 # Applications
-Camera calibration is a very important and most curcial step of any computer vision project. Most of our applications depends on the camera's internal parameters. Some example appliactions include in 3D reconstruction, Projective Geometry, Estimating the fundamental matrix in Epipolar Geometry and so on. 
+Camera calibration is a very important and most crucial step of any computer vision project. Most of our applications depends on the camera's internal parameters. Some example appliactions include in 3D reconstruction, Projective Geometry, Estimating the fundamental matrix in Epipolar Geometry and so on. 
 
