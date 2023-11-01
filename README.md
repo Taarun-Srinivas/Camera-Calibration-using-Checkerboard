@@ -3,8 +3,8 @@
 this repository contains the basic code for camera calibration using checkerboard image. In this version, I use python3 and OpenCV to calibrate my laptop's camera. 
 
 # Requirements
-Camera
-Python = 3.9.0
+Camera   
+Python = 3.9.0                             
 OpenCV = 3.4.18
 
 # Idea
